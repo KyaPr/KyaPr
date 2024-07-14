@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @KyaPr
-- 👀 I’m interested in learning C++
-- 🌱 I’m currently learning design pattern
-- 💞️ I'm looking for collaboration in every project where I can learn something new and gain skills
 - 📫 How to reach me:
 https://t.me/KyaPrm
 yaroslav.kraynov@gmail.com
